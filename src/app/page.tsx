@@ -546,7 +546,7 @@ export default function Home() {
             <span className="date">01/19/26(Mon)16:00:00</span>
           </div>
           <div className="post-message">
-            Post your desk setup and I will rate it. 1-10 based on productivity, aesthetics, and comfort. No judging based on budget, just overall setup quality.
+            Post your desk setup and I will rate it. 1-11 based on productivity, aesthetics, and comfort. No judging based on budget, just overall setup quality.
           </div>
         </div>
         <div className="reply">
