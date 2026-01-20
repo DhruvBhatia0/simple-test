@@ -304,7 +304,7 @@ export default function Home() {
           <div className="post-message">
             <span className="quote">{">"}implying anyone here takes care of their health</span>
             <div className="br" />
-            Lol you are funny. Most of us survive on energy drinks and instant noodles.
+            Lol you are funny. Most of us survive on energy drinks and instant noodles and questinoable substances
           </div>
         </div>
         <div className="reply">
