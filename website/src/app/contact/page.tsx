@@ -372,7 +372,7 @@ export default function ContactPage() {
 
           <div className="contact-card">
             <h3>📧 Email Support</h3>
-            <p>Email us at support@simple-test.fake for the privilege of waiting for a response that will never come.</p>
+            <p>Email us at skibbidi@toilet.com for the privilege of waiting for a response that will never come.</p>
             <p><strong>Response time:</strong> Geological</p>
           </div>
 
