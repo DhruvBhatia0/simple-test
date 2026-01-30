@@ -5,7 +5,7 @@ import { useState } from "react";
 const dogs = [
   {
     id: 1,
-    name: "Bella",
+    name: "Balla",
     breed: "Golden Retriever",
     age: 3,
     bio: "Loves long walks on the beach and chasing tennis balls. Looking for an active playmate!",
