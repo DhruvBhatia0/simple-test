@@ -366,7 +366,7 @@ export default function ContactPage() {
         <div className="contact-grid">
           <div className="contact-card">
             <h3>📞 Phone Support</h3>
-            <p>Call us at (555) 987-6543 for immediate frustration. Our automated system will transfer you in circles until you give up.</p>
+            <p>Call us at 6942066613 for immediate frustration. Our automated system will transfer you in circles until you give up.</p>
             <p><strong>Best time to call:</strong> Never</p>
           </div>
 
