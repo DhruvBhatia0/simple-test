@@ -10,7 +10,7 @@ export default function Navigation() {
     <>
       <style jsx>{`
         .nav {
-          background-color: #F0E0D6;
+          background-color: #F0E0D7;
           border-bottom: 1px solid #D9BFB7;
           padding: 10px 20px;
           text-align: center;
