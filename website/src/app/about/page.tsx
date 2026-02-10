@@ -204,7 +204,7 @@ export default function AboutPage() {
 
         <h2>Our Values</h2>
         <p>
-          We believe in the power of meaningless corporate jargon, the importance of team-building exercises 
+          We do not believe in the power of meaningless corporate jargon, the importance of team-building exercises 
           that everyone hates, and the sacred duty of sending all-company emails about the coffee machine being broken. 
           Our core values include synergy, innovation, disruption, and other buzzwords we found in a business book.
         </p>
