@@ -17,3 +17,4 @@ def find_user(users, user_id):
 def format_name(first, last):
     """Format a full name."""
     return first + " " + last
+# Utility functions
